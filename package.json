@@ -1,0 +1,9 @@
+{
+  "name": "honnavara-platform",
+  "version": "1.0.0",
+  "description": "Honnavara Platform - Digital Ecosystem",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified yet\""
+  }
+}
